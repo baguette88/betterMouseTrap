@@ -20,7 +20,7 @@ $(".generate").click(function btn1(){ //TITLE SCREEN
     const $div = $('<div>')
     $($div).addClass('.anchor')
     $('.anchor').prependTo('.anchor')
-    $($div).text("This is the first div title")
+    $($div).text("Links")
        });
 
 const $gameScene1 = document.getElementsByClassName("gameScene1")
